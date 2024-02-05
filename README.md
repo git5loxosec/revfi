@@ -5,10 +5,10 @@ Simple script to generate a Base64 encoded one-liner to retrieve a linux machine
 
 # Installation
 ```
-- git clone https://github.com/git5loxosec/revfi
-- cd revfi
-- chmod +x revfi.sh
-- ./revfi.sh
+git clone https://github.com/git5loxosec/revfi
+cd revfi
+chmod +x revfi.sh
+./revfi.sh
 ```
 
 # DON'T USE THIS SCRIPT FOR CRIMINAL PURPOSES
